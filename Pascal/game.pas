@@ -1,0 +1,35 @@
+uses crt;
+begin
+clrscr;
+writeln('Day la nhan vo cua em'); delay(1000);
+writeln('...');delay(1000);
+textcolor(yellow);
+writeln('******************************');
+write('*');
+textcolor(red);
+write(' Truong: THCS Le Hong Phong ');
+textcolor(yellow);
+writeln('*');
+write('*');
+textcolor(red);
+write(' Ten: Nguyen Tran Ngoc Ty   ');
+textcolor(yellow);
+writeln('*');
+write('*');
+textcolor(red);
+write(' Lop: 8/1                   ');
+textcolor(yellow);
+writeln('*');
+write('*');
+textcolor(red);
+write(' Tap: Lap trinh Pascal      ');
+textcolor(yellow);
+writeln('*');
+write('*');
+textcolor(red);
+write(' Nam hoc: 2018-2019         ');
+textcolor(yellow);
+writeln('*');
+writeln('******************************');
+readln;
+end.
